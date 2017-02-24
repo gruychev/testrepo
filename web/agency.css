@@ -1,0 +1,60 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.site-header,.site-footer, main section {
+    border: 1px solid blue;
+    margin: 10px;
+}
+
+.site-header {
+    background: url('images/Layer-759_02.jpg');
+    background-size: cover;
+}
+
+nav.top-navigation{
+   background: rgba(199, 148, 93, 0.9) ;
+}
+
+nav.top-navigation ul{
+    text-align: center;
+
+}
+
+nav.top-navigation ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+nav.top-navigation ul li a {
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+
+
+.industries article{
+    width: 300px;
+    border: 1px solid green ;
+    margin: 10px;
+    display: inline-block;
+
+}
+.benefits article{
+    width: 300px;
+    border: 1px solid green ;
+    margin: 10px;
+    display: inline-block;
+
+}
+
+.site-footer section{
+    width: 300px;
+    border: 1px solid green ;
+    margin: 10px;
+    display: inline-block;
+
+}
